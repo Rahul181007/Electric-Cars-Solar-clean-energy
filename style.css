@@ -1,0 +1,152 @@
+.upcoming{
+   
+    background: linear-gradient(90deg, #e4c678 0, #f2e5c2 50%, #e8d199 100%) ;
+    padding: 16px 24px;
+    position: sticky;
+    top: 0;
+}
+.textsi{
+    font-size: 14px;
+    font-family: 'Universal'sans-serif;
+}
+.textsi-1{
+    font-size: 12px;
+    font-family: 'Universal'sans-serif;
+    
+}
+.nav1{
+    position: relative;
+    top: 0;
+}
+.bg-img{
+    background-image: url(Homepage-Model-Y-Desktop-NA-v3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    position: relative;
+}
+.bg-img1{
+    background-image: url(Homepage-Model-Y-2-Desktop-NA.jpg);
+    
+}
+.bg-img2{
+    background-image: url(Homepage-Model-3-Desktop-US.jpg);
+    
+}
+.bg-img3{
+    background-image: url(Homepage-Cybertruck-Desktop-v3.jpg);
+    
+}
+.bg-img4{
+    background-image: url(Homepage-Model-X-Desktop-US.jpg);
+    
+}
+.bg-img5{
+    background-image: url(Homepage-Model-S-Desktop-US.jpg);
+    
+}
+.bg-img6{
+    background-image: url(Homepage-SolarPanels-01-Desktop.jpg);
+    
+}
+.bg-img7{
+    background-image: url(Homepage-SolarRoof-Desktop-US.jpg);
+    
+}
+.bg-img8{
+    background-image: url(Homepage-Powerwall-Desktop-US.jpg);
+    
+}
+.bg-img9{
+    background-image: url(Homepage-Accessories-Desktop-US.jpg);
+    
+}
+.bg-img1,.bg-img2,.bg-img3,.bg-img4,.bg-img5,.bg-img6,.bg-img7,.bg-img8,.bg-img9{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 537.6px;
+    position: relative;
+}
+.logo{
+    padding-left: 20px;
+}
+.icon-size{
+    width: 24px;
+    height: 24px;
+}
+.icon-size:hover{
+    color: white;
+}
+.f1{
+    font-family: 'Arial'sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: black;
+}
+.colbox{
+    width: 100vh;
+    height: 300px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.firsthl{
+    height: 218px;
+}
+.btnc{
+  
+    width: 252px;
+    height: 40px;
+    font-size: 14px;
+    font-family: 'Arial'sans-serif;
+}
+.hfont{
+    font-size: 72px;
+    font-family: 'Arial'sans-serif;
+    font-weight: 700;
+    color: white;
+    height: 72px;
+}
+.linkw{
+    font-family: 'Arial'sans-serif;
+    font-weight: 600;
+    color: white;
+}
+
+.sec1{
+    display: flex;
+    flex-direction: column;
+   
+}
+.sec11{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.y2{
+    margin-top: 90px;
+    color: white;
+    
+}
+.video-container{
+   
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    position: relative;
+    z-index: 0;
+
+}
+.ftrt{
+    font-size: 12px;
+}
+.teslat{
+position: absolute;
+z-index: 1;
+padding-left: 60px;
+padding-top: 100pX;
+text-align: center;
+
+}
